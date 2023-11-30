@@ -1,8 +1,8 @@
 # PythonSelenim
-Automate Website operations with Selenium Framework
+## Automate Website operations with Selenium Framework
 
 
-##Folder description:
+## Folder description:
 ```
 Page objects:
 Web.py - write site elements location (by: id, XPATH, name, CSSselector)
@@ -18,7 +18,7 @@ utilities:
 BaseClass.py - add your functions here
 ```
 
-##CMD commands:
+## CMD commands:
 ```
 For all test files:
 cd C:\Users\...\Selenium
