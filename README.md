@@ -1,6 +1,5 @@
 # PythonSelenim
-
-##Automate Website operations with Selenium Framework
+Automate Website operations with Selenium Framework
 
 
 ##Folder description:
