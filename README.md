@@ -1,7 +1,7 @@
 # PythonSelenim
-Automate Website operations with Selenium Framework
+##Automate Website operations with Selenium Framework
 
-
+```
 Folder description:
 
 Page objects:
@@ -27,3 +27,4 @@ py.test -v -s
 For single test:
 cd C:\Users\...\tests
 py.test test_Web.py -v -s
+```
